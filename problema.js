@@ -6,6 +6,10 @@
 
 
 
+//esto es un ejemplo del uso del funcionamiento de ramas
+//---------
+
+
 
 var x = [];
 var x2 = [];
